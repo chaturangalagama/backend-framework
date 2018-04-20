@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application-server-fermi" />
+        <module name="application-server-fermi (1)" />
+        <module name="application-server-hawking" />
+        <module name="application-server-schrodinger" />
+        <module name="auth-server" />
+        <module name="config-server" />
+        <module name="gateway-auth-server" />
+        <module name="microservices-framework" />
+        <module name="microservices-framework (1)" />
+        <module name="microservices-framework (1) (com.genius-mechanism)" />
+        <module name="microservices-framework (2)" />
+        <module name="microservices-framework (3)" />
+        <module name="service-register-server" />
+        <module name="service-registry-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="application-server-fermi" target="1.8" />
+      <module name="application-server-fermi (1)" target="1.8" />
+      <module name="application-server-hawking" target="1.8" />
+      <module name="application-server-schrodinger" target="1.8" />
+      <module name="auth-server" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="framework-microservices" target="1.5" />
+      <module name="gateway-auth-server" target="1.8" />
+      <module name="microservices-framework" target="1.8" />
+      <module name="microservices-framework (1)" target="1.8" />
+      <module name="microservices-framework (1) (com.genius-mechanism)" target="9.0" />
+      <module name="microservices-framework (2)" target="1.8" />
+      <module name="microservices-framework (3)" target="9.0" />
+      <module name="service-register-server" target="9.0" />
+      <module name="service-registry-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

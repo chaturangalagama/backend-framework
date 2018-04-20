@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application-server-fermi/application-server-fermi.iml" filepath="$PROJECT_DIR$/application-server-fermi/application-server-fermi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application-server-hawking/application-server-hawking.iml" filepath="$PROJECT_DIR$/application-server-hawking/application-server-hawking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application-server-schrodinger/application-server-schrodinger.iml" filepath="$PROJECT_DIR$/application-server-schrodinger/application-server-schrodinger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-microservices.iml" filepath="$PROJECT_DIR$/framework-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-auth-server/gateway-auth-server.iml" filepath="$PROJECT_DIR$/gateway-auth-server/gateway-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry-server/service-registry-server.iml" filepath="$PROJECT_DIR$/service-registry-server/service-registry-server.iml" />
+    </modules>
+  </component>
+</project>
