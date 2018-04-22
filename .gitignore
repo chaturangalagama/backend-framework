@@ -1,10 +1,3 @@
-/target/
-/.idea/
-/output.log/
-/framework-microservices.iml
-/service-registry-server.iml
-/gateway-auth-server.iml
-/config-server.iml
-/application-server-schrodinger.iml
-/application-server-hawking.iml
-/application-server-fermi.iml
+.idea
+*.iml
+target
